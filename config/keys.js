@@ -1,5 +1,5 @@
 module.exports = {
-  mongoURI: 'mongodb+srv://dbuser:dbpassword@cluster0-azaav.mongodb.net/test?retryWrites=true&w=majority'
+  mongoURI: <"place your database info here">
 
 }
 
